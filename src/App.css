@@ -1,0 +1,75 @@
+form {
+  color: #A0A0A0;
+  font-family: Poppins;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+
+}
+
+form>div:first-child {
+  margin-top: -30px;
+}
+
+form>div {
+  border: none;
+  border-bottom: 1px solid #EAEAEA;
+
+  width: 400px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 20px;
+}
+
+form>div>input {
+  border: none;
+  width: 380px;
+  height: 30px;
+  color: #A0A0A0;
+  font-family: Poppins;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+form input:focus {
+  border: none;
+  border-bottom: 1px solid aqua;
+}
+
+form img {
+  width: 25px;
+  height: 16px;
+
+}
+
+form button {
+  margin-top: 25px;
+  width: 400px;
+  border: none;
+  display: inline-flex;
+  padding: 9px 126px;
+  align-items: flex-start;
+  gap: 10px;
+  border-radius: 9px;
+  background: #7CD2D7;
+
+  color: #FFF;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.msg{
+  width: 400px;
+  height: auto;
+  margin-top: 30px;
+  text-align: center;
+  
+}
