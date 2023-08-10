@@ -1,4 +1,4 @@
-Deployment Link : https://thriving-phoenix-b77d81.netlify.app/
+Deployment Link : https://spontaneous-frangipane-1712e0.netlify.app/
 
 # Getting Started with Create React App
 
